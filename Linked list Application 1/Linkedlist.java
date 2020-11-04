@@ -1,5 +1,3 @@
-package com.company;
-
 public class Linkedlist {
     Node head;
     public void insert(int data)
